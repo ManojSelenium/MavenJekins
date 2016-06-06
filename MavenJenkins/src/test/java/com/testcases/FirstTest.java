@@ -22,4 +22,9 @@ public class FirstTest {
 	public void tc_3() {
 		System.out.println("Third Test Case");
 	}
+	
+	@Test
+	public void tc_4() {
+		System.out.println("Fourth Test Case");
+	}
 }
